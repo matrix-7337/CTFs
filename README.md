@@ -68,17 +68,6 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 | 🔥 Current Streak | **15 days** |
 | 📅 Started | **2024** |
 
-## 📊 Overall Graphical Progress
-
-Rooms Solved     ████████████████░░░░░░░░░ 60%
-
-Rank Progress    █████████████░░░░░░░░░░░ 50%
-
-Points Earned    ██████████████░░░░░░░░░░ 55%
-
-Paths Completed  ███████████░░░░░░░░░░░░░ 45%
-
-KoTH Experience  █████████░░░░░░░░░░░░░░ 40%
 
 ## 🧩 Rooms Solved — Category Breakdown
 
@@ -100,7 +89,8 @@ KoTH Experience  █████████░░░░░░░░░░░░
 2026  ████████████ 85k
 
 ⭐ Points Accumulation
-██████████████░░░░░░░░░░ 45,000+
+█
+█████████████░░░░░░░░░░ 45,000+
 
 ## 🧭 Learning Paths
 
@@ -128,25 +118,6 @@ KoTH Experience  █████████░░░░░░░░░░░░
 | Web Fundamentals | ⏳ |
 | Jr Penetration Tester | ⏳ |
 
-
-**Practice Summary**
-- Total Challenges Solved: **75+**
-- Categories:
-  - Web
-  - Crypto
-  - Forensics
-  - General Skills
-
-**Competitions**
-| Event | Year | Score |
-|------|------|-------|
-| picoCTF | 2025 | 3200 |
-| picoCTF | 2024 | 2100 |
-
-**Key Learnings**
-- HTTP request analysis  
-- Encoding & decoding  
-- File inspection and forensics basics  
 
 </details>
 
