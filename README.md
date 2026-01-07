@@ -98,11 +98,8 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 
 | Metric | Value |
 |-------|-------|
-| 👤 Username | `matrix7337` |
-| 🧩 Total Rooms Solved | **10+** |
-| 🏆 Global Rank | **x** |
-| ⭐ Total Points | **x+** |
-| 🔥 Current Streak | **x days** |
+| 👤 Username | `matrix-7337` |
+| 🧩 Total CTFs Solved | **10+** |
 | 📅 Started | **2026** |
 
 
@@ -110,38 +107,18 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 
 | Category | Visual | Rooms |
 |---------|--------|-------|
-| Linux | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **1** |
-| Networking | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **25** |
-| Web Security | 🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **30** |
-| Privilege Escalation | 🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **15** |
-| Forensics | 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **15** |
-
-## 🧭 Learning Paths
-
-| Path | Status | Progress |
-|-----|--------|----------|
-| Pre Security | ✅ Completed | ████████████████████ |
-| Intro to Cyber Security | ✅ Completed | ████████████████████ |
-| Web Fundamentals | 🔄 In Progress | ███████████░░░░░░░░ |
-| Jr Penetration Tester | 🔄 In Progress | █████████░░░░░░░░░░ |
+| General | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **1** |
+| Cryptography | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **0** |
+| Web Security | 🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **0** |
+| Reverse Engineering | 🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **0** |
+| Forensics | 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **6** |
+| Binary Exploitation | 🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **0** |
 
 ## 📅 Annual Events & Challenges
 
 | Event | Year | Result |
 |------|------|--------|
-| Advent of Cyber | 2024 | 20+ days completed |
-| Advent of Cyber | 2025 | 24 / 25 days |
-| Monthly Challenges | 2025 | Participated |
-
-## 🎓 Certificates
-
-| Certificate | Status |
-|------------|--------|
-| Pre Security | ✅ |
-| Intro to Cyber Security | ✅ |
-| Web Fundamentals | ⏳ |
-| Jr Penetration Tester | ⏳ |
-
+| PicoCTF | 2025 | Particiapted |
 
 </details>
 
@@ -151,18 +128,25 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 <summary>🧩 View CTFlearn Details</summary>
 <br>
 
-**Statistics**
-- Challenges Solved: **60+**
-- Global Rank: **~12,000**
+## 👤 Profile Snapshot
 
-**Focus Areas**
-- Web exploitation  
-- Cryptography  
-- OSINT  
+| Metric | Value |
+|-------|-------|
+| 👤 Username | `matrix-7337` |
+| 🧩 Total CTFs Solved | **10+** |
+| 📅 Started | **2026** |
 
-**Highlights**
-- Solved first real-world style web challenge  
-- Improved logical thinking and pattern recognition  
+
+## 🧩 Rooms Solved 
+
+| Category | Visual | Rooms |
+|---------|--------|-------|
+| Misc | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **1** |
+| Cryptography | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **0** |
+| Web Security | 🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **0** |
+| Reverse Engineering | 🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **0** |
+| Forensics | 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **6** |
+| Binary Exploitation | 🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **0** |
 
 </details>
 
@@ -171,39 +155,8 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 <details>
 <summary>🐧 View OverTheWire Details</summary>
 <br>
-
-**Games Completed**
-| Game | Levels |
-|------|--------|
-| Bandit | 0–34 |
-| Leviathan | 0–7 |
-
-**Skills Developed**
-- Linux command line mastery  
-- SSH usage  
-- File permissions  
-- Scripting mindset  
-
+  
 </details>
 
-## 🎯 Why This Repository Exists
-
-- To show **consistent hands-on practice**
-- To present **verifiable CTF progress**
-- To document **learning, not just results**
-- To help recruiters evaluate my **problem-solving mindset**
-
-> This repository complements my CTF writeups and technical projects.
-
----
-
-## 📫 Notes for Recruiters
-
-- Beginner → Intermediate learning journey  
-- Focus on **fundamentals done right**
-- Emphasis on **ethical, legal security practice**
-- Strong interest in **network security & web security**
-
----
 
 ⭐ *Thank you for visiting my CTF portfolio*
