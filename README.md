@@ -47,12 +47,13 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 <details>
 <summary>📊 View TryHackMe Details</summary>
 <br>
-
-**Statistics**
-- Rooms Completed: **120+**
-- Global Rank: **~85,000**
-- Streak: **15 days**
-
+┌──────────────────────────┐
+│ 🏆  **Statistics**       │
+├──────────────────────────┤
+│ Event: picoCTF 2025      │
+│ Score: 3200              │
+│ Rank: Top X%             │
+└──────────────────────────┘
 **Skill Areas Practiced**
 - Linux Fundamentals  
 - Networking Basics  
