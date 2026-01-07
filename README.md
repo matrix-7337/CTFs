@@ -48,37 +48,6 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 <summary>📊 View TryHackMe Details</summary>
 <br>
 
-### 🚩 picoCTF
-🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 50%
-Challenges: 75+ | Best Score: 3200
-
-
-
-### 🔵 TryHackMe
-🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%
-Rooms: 120+ | Rank: ~85k
-
-
-## 📊 Platform Progress
-
-| Platform | Visual | Progress | Extra |
-|--------|--------|---------|-------|
-| TryHackMe | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ | 60% | Rank ~85k |
-| picoCTF | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ | 50% | Score 3200 |
-| CTFlearn | 🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜ | 40% | Rank ~12k |
-| OverTheWire | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 | 100% | Bandit Done |
-
-
-  **Skill Areas Practiced**
-- Linux Fundamentals  
-- Networking Basics  
-- Web Security Basics  
-- Privilege Escalation (Beginner)
-
-**Highlights**
-- Completed *Pre Security* path  
-- Completed multiple beginner rooms  
-- First exposure to SOC-style labs  
 
 </details>
 
@@ -87,6 +56,74 @@ Rooms: 120+ | Rank: ~85k
 <details>
 <summary>🚩 View picoCTF Details</summary>
 <br>
+
+## 👤 Profile Snapshot
+
+| Metric | Value |
+|-------|-------|
+| 👤 Username | `your-tryhackme-username` |
+| 🧩 Total Rooms Solved | **120+** |
+| 🏆 Global Rank | **~85,000** |
+| ⭐ Total Points | **45,000+** |
+| 🔥 Current Streak | **15 days** |
+| 📅 Started | **2024** |
+
+##📊 Overall Graphical Progress
+
+Rooms Solved     ████████████████░░░░░░░░░ 60%
+Rank Progress    █████████████░░░░░░░░░░░ 50%
+Points Earned    ██████████████░░░░░░░░░░ 55%
+Paths Completed  ███████████░░░░░░░░░░░░░ 45%
+KoTH Experience  █████████░░░░░░░░░░░░░░ 40%
+
+## 🧩 Rooms Solved — Category Breakdown
+
+| Category | Visual | Rooms |
+|---------|--------|-------|
+| Linux | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ | **35** |
+| Networking | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ | **25** |
+| Web Security | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ | **30** |
+| Privilege Escalation | 🟥🟥🟥🟥⬜⬜⬜⬜⬜⬜ | **15** |
+| Forensics | 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ | **15** |
+
+##🏆 Rank & Points Growth
+📈 Rank Improvement Timeline
+
+2024  █████░░░░░░ 150k
+2025  █████████░░ 100k
+2026  ████████████ 85k
+
+⭐ Points Accumulation
+██████████████░░░░░░░░░░ 45,000+
+
+## 🧭 Learning Paths
+
+| Path | Status | Progress |
+|-----|--------|----------|
+| Pre Security | ✅ Completed | ████████████████████ |
+| Intro to Cyber Security | ✅ Completed | ████████████████████ |
+| Web Fundamentals | 🔄 In Progress | ███████████░░░░░░░░ |
+| Jr Penetration Tester | 🔄 In Progress | █████████░░░░░░░░░░ |
+
+## 📅 Annual Events & Challenges
+
+| Event | Year | Result |
+|------|------|--------|
+| Advent of Cyber | 2024 | 20+ days completed |
+| Advent of Cyber | 2025 | 24 / 25 days |
+| Monthly Challenges | 2025 | Participated |
+
+---
+
+## 🎓 Certificates
+
+| Certificate | Status |
+|------------|--------|
+| Pre Security | ✅ |
+| Intro to Cyber Security | ✅ |
+| Web Fundamentals | ⏳ |
+| Jr Penetration Tester | ⏳ |
+
 
 **Practice Summary**
 - Total Challenges Solved: **75+**
