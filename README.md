@@ -48,13 +48,26 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 <summary>📊 View TryHackMe Details</summary>
 <br>
 
-┌──────────────────────────┐
-│ 🏆 picoCTF Achievement   │
-├──────────────────────────┤
-│ Event: picoCTF 2025      │
-│ Score: 3200              │
-│ Rank: Top X%             │
-└──────────────────────────┘
+### 🚩 picoCTF
+🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 50%
+Challenges: 75+ | Best Score: 3200
+
+
+
+### 🔵 TryHackMe
+🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%
+Rooms: 120+ | Rank: ~85k
+
+
+## 📊 Platform Progress
+
+| Platform | Visual | Progress | Extra |
+|--------|--------|---------|-------|
+| TryHackMe | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ | 60% | Rank ~85k |
+| picoCTF | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ | 50% | Score 3200 |
+| CTFlearn | 🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜ | 40% | Rank ~12k |
+| OverTheWire | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 | 100% | Bandit Done |
+
 
   **Skill Areas Practiced**
 - Linux Fundamentals  
