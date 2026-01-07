@@ -47,6 +47,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 <details>
 <summary>📊 View TryHackMe Details</summary>
 <br>
+
 ┌──────────────────────────┐
 │ 🏆  **Statistics**       │
 ├──────────────────────────┤
@@ -54,7 +55,9 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 │ Score: 3200              │
 │ Rank: Top X%             │
 └──────────────────────────┘
-**Skill Areas Practiced**
+
+
+  **Skill Areas Practiced**
 - Linux Fundamentals  
 - Networking Basics  
 - Web Security Basics  
