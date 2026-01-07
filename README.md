@@ -4,6 +4,7 @@
 [![picoCTF](https://img.shields.io/badge/picoCTF-picoGym-green)](https://play.picoctf.org/users/matrix-7337)
 ![CTFs](https://img.shields.io/badge/CTF-Practice-informational)
 [![CTFLearn](https://img.shields.io/badge/CTFlearn-active-pink)](https://ctflearn.com/user/matrix-7337)
+[![tryhackme](https://img.shields.io/badge/Tryhackme-active-red)](https://tryhackme.com/p/matrix7337)
 
 ---
 
