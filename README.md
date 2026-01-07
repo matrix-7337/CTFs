@@ -19,20 +19,17 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 
 | Platform     | Progress / Solved | Rank / Status |
 |--------------|-------------------|---------------|
-| TryHackMe    | 120+ rooms        | Rank ~85,000  |
-| picoCTF      | 75+ challenges    | Event-based   |
-| CTFlearn     | 60+ challenges    | Rank ~12,000  |
-| OverTheWire  | Bandit completed  | Beginner      |
+| TryHackMe    | 20+ rooms        | Rank ~85,000  |
+| picoCTF      | 20+ challenges    | Event-based   |
+| CTFlearn     | 20+ challenges    | Rank ~12,000  |
+| OverTheWire  | Bandit In progress  | Beginner      |
 
 📅 **Last Updated:** Jan 2026
 
 ## 🌟 Special Achievements
 
-- 🏁 Participated in **XYZ Annual picoCTF (2025)**
-- 🏆 Scored **3200 points** in picoCTF
 - 🐧 Completed **OverTheWire Bandit (0–34)**
-- 📈 Reached **Top X% global rank** on TryHackMe
-- 🔁 Maintained consistent learning streaks
+- Add..
 
 ---
 
