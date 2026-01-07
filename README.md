@@ -47,6 +47,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 <details>
 <summary>📊 View TryHackMe Details</summary>
 <br>
+
 ## 👤 Profile Snapshot
 
 | Metric | Value |
@@ -64,8 +65,8 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 |-----|--------|----------|
 | Pre Security | ✅ Completed | ████████████████████ |
 | Cyber Security 101 | 🔄 In Progress | █░░░░░░░░░░░░░░░░░░░ |
-| Web Fundamentals | 🔄 In Progress | ███████████░░░░░░░░ |
-| Jr Penetration Tester | 🔄 In Progress | █████████░░░░░░░░░░ |
+| Web Fundamentals | 🔄 In Progress | ░░░░░░░░░░░░░░░░░░ |
+| Jr Penetration Tester | 🔄 In Progress | ░░░░░░░░░░░░░░░░░░░ |
 
 ## 📅 Annual Events & Challenges
 
