@@ -47,6 +47,42 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 <details>
 <summary>📊 View TryHackMe Details</summary>
 <br>
+## 👤 Profile Snapshot
+
+| Metric | Value |
+|-------|-------|
+| 👤 Username | `matrix7337` |
+| 🧩 Total Rooms Solved | **10+** |
+| 🏆 Global Rank | **x** |
+| ⭐ Total Points | **x+** |
+| 🔥 Current Streak | **x days** |
+| 📅 Started | **2026** |
+
+## 🧭 Learning Paths
+
+| Path | Status | Progress |
+|-----|--------|----------|
+| Pre Security | ✅ Completed | ████████████████████ |
+| Cyber Security 101 | 🔄 In Progress | █░░░░░░░░░░░░░░░░░░░ |
+| Web Fundamentals | 🔄 In Progress | ███████████░░░░░░░░ |
+| Jr Penetration Tester | 🔄 In Progress | █████████░░░░░░░░░░ |
+
+## 📅 Annual Events & Challenges
+
+| Event | Year | Result |
+|------|------|--------|
+| Advent of Cyber | 2024 | 20+ days completed |
+| Advent of Cyber | 2025 | 24 / 25 days |
+| Monthly Challenges | 2025 | Participated |
+
+## 🎓 Certificates
+
+| Certificate | Status |
+|------------|--------|
+| Pre Security | ⏳ |
+| CyberSecurity 101 | ⏳ |
+| Web Fundamentals | ⏳ |
+| Jr Penetration Tester | ⏳ |
 
 
 </details>
