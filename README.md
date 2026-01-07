@@ -61,36 +61,23 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 
 | Metric | Value |
 |-------|-------|
-| 👤 Username | `your-tryhackme-username` |
-| 🧩 Total Rooms Solved | **120+** |
-| 🏆 Global Rank | **~85,000** |
-| ⭐ Total Points | **45,000+** |
-| 🔥 Current Streak | **15 days** |
-| 📅 Started | **2024** |
+| 👤 Username | `matrix7337` |
+| 🧩 Total Rooms Solved | **10+** |
+| 🏆 Global Rank | **x** |
+| ⭐ Total Points | **x+** |
+| 🔥 Current Streak | **x days** |
+| 📅 Started | **2026** |
 
 
-## 🧩 Rooms Solved — Category Breakdown
+## 🧩 Rooms Solved 
 
 | Category | Visual | Rooms |
 |---------|--------|-------|
-| Linux | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ | **35** |
-| Networking | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ | **25** |
-| Web Security | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ | **30** |
-| Privilege Escalation | 🟥🟥🟥🟥⬜⬜⬜⬜⬜⬜ | **15** |
-| Forensics | 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ | **15** |
-
-## 🏆 Rank & Points Growth
-📈 Rank Improvement Timeline
-
-2024  █████░░░░░░ 150k
-
-2025  █████████░░ 100k
-
-2026  ████████████ 85k
-
-⭐ Points Accumulation
-█
-█████████████░░░░░░░░░░ 45,000+
+| Linux | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **1** |
+| Networking | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **25** |
+| Web Security | 🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **30** |
+| Privilege Escalation | 🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **15** |
+| Forensics | 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **15** |
 
 ## 🧭 Learning Paths
 
