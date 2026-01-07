@@ -1,5 +1,15 @@
-# 🔐 CTF Practice & Achievements Portfolio
+# 🔐 CTF Progress & Achievements
 
+---
+
+## 🏆 Platforms (Quick View)
+
+- [![TryHackMe](https://img.shields.io/badge/TryHackMe-Rank%2085k-green)](#-tryhackme)
+- [![picoCTF](https://img.shields.io/badge/picoCTF-Event%20Participant-blue)](#-picoctf)
+- [![CTFlearn](https://img.shields.io/badge/CTFlearn-Rank%2012k-orange)](#-ctflearn)
+- [![OverTheWire](https://img.shields.io/badge/OverTheWire-Bandit%20Completed-lightgrey)](#-overthewire)
+
+---
 Hi 👋  
 I am a **cybersecurity student** actively practicing **Capture The Flag (CTF)** challenges across multiple platforms.  
 This repository presents my **manual CTF statistics, platform-wise progress, and special achievements** in a clear and recruiter-friendly format.
@@ -18,17 +28,6 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 | OverTheWire  | Bandit completed  | Beginner      |
 
 📅 **Last Updated:** Jan 2026
-
----
-
-## 🏆 Platforms (Quick View)
-
-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-Rank%2085k-green)](#-tryhackme)
-- [![picoCTF](https://img.shields.io/badge/picoCTF-Event%20Participant-blue)](#-picoctf)
-- [![CTFlearn](https://img.shields.io/badge/CTFlearn-Rank%2012k-orange)](#-ctflearn)
-- [![OverTheWire](https://img.shields.io/badge/OverTheWire-Bandit%20Completed-lightgrey)](#-overthewire)
-
----
 
 ## 🌟 Special Achievements
 
@@ -54,9 +53,9 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 |-------|-------|
 | 👤 Username | `matrix7337` |
 | 🧩 Total Rooms Solved | **10+** |
-| 🏆 Global Rank | **x** |
-| ⭐ Total Points | **x+** |
-| 🔥 Current Streak | **x days** |
+| 🏆 Global Rank | **1993535** |
+| ⭐ Total Points | **200+** |
+| 🔥 Current Streak | **3 days** |
 | 📅 Started | **2026** |
 
 ## 🧭 Learning Paths
@@ -85,6 +84,8 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 | Web Fundamentals | ⏳ |
 | Jr Penetration Tester | ⏳ |
 
+
+👉 https://tryhackme.com/p/matrix7337
 
 </details>
 
@@ -120,6 +121,8 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 |------|------|--------|
 | PicoCTF | 2025 | Particiapted |
 
+
+👉 https://play.picoctf.org/user/matrix-7337
 </details>
 
 ### 🟠 CTFlearn
@@ -134,6 +137,8 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 |-------|-------|
 | 👤 Username | `matrix-7337` |
 | 🧩 Total CTFs Solved | **10+** |
+| 🏆 Global Rank | **x** |
+| ⭐ Total Points | **x+** |
 | 📅 Started | **2026** |
 
 
@@ -148,6 +153,9 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 | Forensics | 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **6** |
 | Binary Exploitation | 🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **0** |
 
+🔗 Detailed writeups:
+👉 https://ctflearn.com/user/matrix-7337
+
 </details>
 
 ### ⚫ OverTheWire
@@ -155,6 +163,18 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 <details>
 <summary>🐧 View OverTheWire Details</summary>
 <br>
+
+### ▶ OverTheWire Wargames
+| Wargame     | Progress | Focus Area |
+|------------|----------|------------|
+| Bandit     | █████░░░░░░░ 12 / 34 | Linux fundamentals |
+| Leviathan  | ░░░░░░░░░░░░ 0/ 8 | Binary logic |
+| Natas      | ░░░░░░░░░░░░ 0 / 34 | Web exploitation |
+| Krypton    | ░░░░░░░░░░░░ 0 / 8 | Cryptography |
+| Narnia     | ░░░░░░░░░░░░ 0 / 9 | Binary exploitation |
+
+🔗 Detailed writeups:
+👉 https://github.com/matrix-7337/OverThewire-CTF
   
 </details>
 
