@@ -41,7 +41,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 ### 🔵 TryHackMe
 
 <details>
-<summary>📊 View TryHackMe Details</summary>
+<summary> View TryHackMe Details</summary>
 <br>
 
 ## 👤 Profile Snapshot
@@ -89,7 +89,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 ### 🔵 picoCTF
 
 <details>
-<summary>🚩 View picoCTF Details</summary>
+<summary> View picoCTF Details</summary>
 <br>
 
 ## 👤 Profile Snapshot
@@ -125,7 +125,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 ### 🟠 CTFlearn
 
 <details>
-<summary>🧩 View CTFlearn Details</summary>
+<summary> View CTFlearn Details</summary>
 <br>
 
 ## 👤 Profile Snapshot
@@ -158,10 +158,10 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 ###  OverTheWire
 
 <details>
-<summary>🐧 View OverTheWire Details</summary>
+<summary> View OverTheWire Details</summary>
 <br>
 
-### ▶ OverTheWire Wargames
+### ▶ 🐧OverTheWire Wargames
 | Wargame     | Progress | Focus Area |
 |------------|----------|------------|
 | Bandit     | █████░░░░░░░ 12 / 34 | Linux fundamentals |
