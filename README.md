@@ -1,15 +1,12 @@
-# 🔐 CTF Progress & Achievements
+# 🏴‍☠️ CTF Practice Dashboard
+
+![OverTheWire](https://img.shields.io/badge/OverTheWire-active-blue)
+[![picoCTF](https://img.shields.io/badge/picoCTF-picoGym-green)](https://play.picoctf.org/users/matrix-7337)
+![CTFs](https://img.shields.io/badge/CTF-Practice-informational)
+[![CTFLearn](https://img.shields.io/badge/CTFlearn-active-pink)](https://ctflearn.com/user/matrix-7337)
 
 ---
 
-## 🏆 Platforms (Quick View)
-
-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-Rank%2085k-green)](#-tryhackme)
-- [![picoCTF](https://img.shields.io/badge/picoCTF-Event%20Participant-blue)](#-picoctf)
-- [![CTFlearn](https://img.shields.io/badge/CTFlearn-Rank%2012k-orange)](#-ctflearn)
-- [![OverTheWire](https://img.shields.io/badge/OverTheWire-Bandit%20Completed-lightgrey)](#-overthewire)
-
----
 Hi 👋  
 I am a **cybersecurity student** actively practicing **Capture The Flag (CTF)** challenges across multiple platforms.  
 This repository presents my **manual CTF statistics, platform-wise progress, and special achievements** in a clear and recruiter-friendly format.
