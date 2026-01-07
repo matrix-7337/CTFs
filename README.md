@@ -68,7 +68,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 | 🔥 Current Streak | **15 days** |
 | 📅 Started | **2024** |
 
-##📊 Overall Graphical Progress
+## 📊 Overall Graphical Progress
 
 Rooms Solved     ████████████████░░░░░░░░░ 60%
 
@@ -90,7 +90,7 @@ KoTH Experience  █████████░░░░░░░░░░░░
 | Privilege Escalation | 🟥🟥🟥🟥⬜⬜⬜⬜⬜⬜ | **15** |
 | Forensics | 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ | **15** |
 
-##🏆 Rank & Points Growth
+## 🏆 Rank & Points Growth
 📈 Rank Improvement Timeline
 
 2024  █████░░░░░░ 150k
