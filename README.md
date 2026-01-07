@@ -42,8 +42,6 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 
 ## 📚 Platform-Wise Details
 
----
-
 ### 🔵 TryHackMe
 
 <details>
@@ -67,8 +65,6 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 - First exposure to SOC-style labs  
 
 </details>
-
----
 
 ### 🔵 picoCTF
 
@@ -97,8 +93,6 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 
 </details>
 
----
-
 ### 🟠 CTFlearn
 
 <details>
@@ -120,8 +114,6 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 
 </details>
 
----
-
 ### ⚫ OverTheWire
 
 <details>
@@ -141,8 +133,6 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 - Scripting mindset  
 
 </details>
-
----
 
 ## 🎯 Why This Repository Exists
 
