@@ -49,13 +49,12 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 <br>
 
 ┌──────────────────────────┐
-│ 🏆  **Statistics**       │
+│ 🏆 picoCTF Achievement   │
 ├──────────────────────────┤
 │ Event: picoCTF 2025      │
 │ Score: 3200              │
 │ Rank: Top X%             │
 └──────────────────────────┘
-
 
   **Skill Areas Practiced**
 - Linux Fundamentals  
