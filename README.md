@@ -71,9 +71,13 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 ##📊 Overall Graphical Progress
 
 Rooms Solved     ████████████████░░░░░░░░░ 60%
+
 Rank Progress    █████████████░░░░░░░░░░░ 50%
+
 Points Earned    ██████████████░░░░░░░░░░ 55%
+
 Paths Completed  ███████████░░░░░░░░░░░░░ 45%
+
 KoTH Experience  █████████░░░░░░░░░░░░░░ 40%
 
 ## 🧩 Rooms Solved — Category Breakdown
@@ -90,7 +94,9 @@ KoTH Experience  █████████░░░░░░░░░░░░
 📈 Rank Improvement Timeline
 
 2024  █████░░░░░░ 150k
+
 2025  █████████░░ 100k
+
 2026  ████████████ 85k
 
 ⭐ Points Accumulation
@@ -112,8 +118,6 @@ KoTH Experience  █████████░░░░░░░░░░░░
 | Advent of Cyber | 2024 | 20+ days completed |
 | Advent of Cyber | 2025 | 24 / 25 days |
 | Monthly Challenges | 2025 | Participated |
-
----
 
 ## 🎓 Certificates
 
