@@ -153,7 +153,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 
 </details>
 
-###  OverTheWire
+### 🟠 OverTheWire
 
 <details>
 <summary> View OverTheWire Details</summary>
