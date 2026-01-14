@@ -36,7 +36,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 
 ## 📚 Platform-Wise Details
 
-### 🔵 TryHackMe
+## 🔵 TryHackMe
 
 <details>
 <summary> View TryHackMe Details</summary>
@@ -84,7 +84,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 
 </details>
 
-### 🔵 picoCTF
+## 🔵 picoCTF
 
 <details>
 <summary> View picoCTF Details</summary>
