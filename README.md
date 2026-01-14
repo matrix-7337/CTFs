@@ -120,7 +120,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 👉 https://play.picoctf.org/user/matrix-7337
 </details>
 
-### 🟠 CTFlearn
+## 🟠 CTFlearn
 
 <details>
 <summary> View CTFlearn Details</summary>
@@ -153,7 +153,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 
 </details>
 
-### 🟠 OverTheWire
+## 🟠 ![OverTheWire](https://img.shields.io/badge/OverTheWire-active-blue)
 
 <details>
 <summary> View OverTheWire Details</summary>
