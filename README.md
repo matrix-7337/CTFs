@@ -153,7 +153,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 
 </details>
 
-##  ![OverTheWire](https://img.shields.io/badge/OverTheWire-active-blue)
+## 🟠 OverTheWire
 
 <details>
 <summary> Details </summary>
