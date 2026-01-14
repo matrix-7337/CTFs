@@ -39,7 +39,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 ## 🔵 TryHackMe
 
 <details>
-<summary> View TryHackMe Details</summary>
+<summary> View Details</summary>
 <br>
 
 ## 👤 Profile Snapshot
@@ -87,7 +87,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 ## 🔵 picoCTF
 
 <details>
-<summary> View picoCTF Details</summary>
+<summary> View Details</summary>
 <br>
 
 ## 👤 Profile Snapshot
@@ -123,7 +123,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 ## 🟠 CTFlearn
 
 <details>
-<summary> View CTFlearn Details</summary>
+<summary> View Details</summary>
 <br>
 
 ## 👤 Profile Snapshot
@@ -156,7 +156,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 ## 🟠 ![OverTheWire](https://img.shields.io/badge/OverTheWire-active-blue)
 
 <details>
-<summary> ![OverTheWire](https://img.shields.io/badge/OverTheWire-active-blue) </summary>
+<summary> Details </summary>
 <br>
 
 ### ▶ 🐧OverTheWire Wargames
