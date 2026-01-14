@@ -156,7 +156,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 ## 🟠 ![OverTheWire](https://img.shields.io/badge/OverTheWire-active-blue)
 
 <details>
-<summary> View OverTheWire Details</summary>
+<summary>![OverTheWire](https://img.shields.io/badge/OverTheWire-active-blue)</summary>
 <br>
 
 ### ▶ 🐧OverTheWire Wargames
