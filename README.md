@@ -120,7 +120,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 ## 🟠 OverTheWire
 
 
-### ▶ 🐧OverTheWire Wargames
+### 🐧OverTheWire Wargames
 | Wargame     | Progress | Focus Area |
 |------------|----------|------------|
 | Bandit     | █████░░░░░░░ 12 / 34 | Linux fundamentals |
