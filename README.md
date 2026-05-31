@@ -27,22 +27,9 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 
 📅 **Last Updated:** Jan 2026
 
-## 🌟 Special Achievements
-
-- 🐧 Completed **OverTheWire Bandit (0–34)**
-- Add..
-
----
-
 ## 📚 Platform-Wise Details
 
 ## 🔵 TryHackMe
-
-<details>
-<summary> View Details</summary>
-<br>
-
-## 👤 Profile Snapshot
 
 | Metric | Value |
 |-------|-------|
@@ -53,7 +40,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 | 🔥 Current Streak | **3 days** |
 | 📅 Started | **2026** |
 
-## 🧭 Learning Paths
+### 🧭 Learning Paths
 
 | Path | Status | Progress |
 |-----|--------|----------|
@@ -62,7 +49,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 | Web Fundamentals | 🔄 In Progress | ░░░░░░░░░░░░░░░░░░ |
 | Jr Penetration Tester | 🔄 In Progress | ░░░░░░░░░░░░░░░░░░░ |
 
-## 📅 Annual Events & Challenges
+### 📅 Annual Events & Challenges
 
 | Event | Year | Result |
 |------|------|--------|
@@ -70,7 +57,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 | Advent of Cyber | 2025 | 24 / 25 days |
 | Monthly Challenges | 2025 | Participated |
 
-## 🎓 Certificates
+### 🎓 Certificates
 
 | Certificate | Status |
 |------------|--------|
@@ -80,17 +67,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 | Jr Penetration Tester | ⏳ |
 
 
-👉 https://tryhackme.com/p/matrix7337
-
-</details>
-
 ## 🔵 picoCTF
-
-<details>
-<summary> View Details</summary>
-<br>
-
-## 👤 Profile Snapshot
 
 | Metric | Value |
 |-------|-------|
@@ -99,7 +76,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 | 📅 Started | **2026** |
 
 
-## 🧩 Rooms Solved 
+### 🧩 Rooms Solved 
 
 | Category | Visual | Rooms |
 |---------|--------|-------|
@@ -110,23 +87,14 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 | Forensics | 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **6** |
 | Binary Exploitation | 🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **0** |
 
-## 📅 Annual Events & Challenges
+### 📅 Annual Events & Challenges
 
 | Event | Year | Result |
 |------|------|--------|
 | PicoCTF | 2025 | Particiapted |
 
 
-👉 https://play.picoctf.org/user/matrix-7337
-</details>
-
 ## 🟠 CTFlearn
-
-<details>
-<summary> View Details</summary>
-<br>
-
-## 👤 Profile Snapshot
 
 | Metric | Value |
 |-------|-------|
@@ -137,7 +105,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 | 📅 Started | **2026** |
 
 
-## 🧩 Rooms Solved 
+### 🧩 Rooms Solved 
 
 | Category | Visual | Rooms |
 |---------|--------|-------|
@@ -148,16 +116,9 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 | Forensics | 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **6** |
 | Binary Exploitation | 🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜ | **0** |
 
-🔗 Detailed writeups:
-👉 https://ctflearn.com/user/matrix-7337
-
-</details>
 
 ## 🟠 OverTheWire
 
-<details>
-<summary> Details </summary>
-<br>
 
 ### ▶ 🐧OverTheWire Wargames
 | Wargame     | Progress | Focus Area |
@@ -168,11 +129,7 @@ This repository presents my **manual CTF statistics, platform-wise progress, and
 | Krypton    | ░░░░░░░░░░░░ 0 / 8 | Cryptography |
 | Narnia     | ░░░░░░░░░░░░ 0 / 9 | Binary exploitation |
 
-🔗 Detailed writeups:
-👉 https://github.com/matrix-7337/OverThewire-CTF
   
-</details>
-
 
 
 
